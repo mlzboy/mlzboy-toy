@@ -1,0 +1,5 @@
+cron:
+- description: monday morning mailout
+  url: /rank/
+  schedule: every monday 09:00
+  timezone: Asia/Shanghai

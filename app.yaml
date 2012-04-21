@@ -1,0 +1,10 @@
+application: mlzboy-toy
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /rank.*
+  script: rank.py
+- url: /.*
+  script: run.py
