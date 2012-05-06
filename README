@@ -1,0 +1,5 @@
+data store usage
+https://developers.google.com/appengine/docs/python/datastore/queries
+
+python appcfg.py update ../mlzboy-toy/
+python ./dev_appserver.py ../mlzboy-toy/ 
